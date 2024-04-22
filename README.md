@@ -10,3 +10,6 @@ ABSTRACT: Using Text Generation to Generate Hamlet-Like Text
 Ex) extend_text('tis but our Fantasie, And will not let beleefe ' --> 'tis but our Fantasie, And will not let beleefe the world and father lord, i haue seene the world'
 - Temperature value affects text generation
     - Higher temperature, more gibberish
+
+
+ **References**: Géron, A. (2023). Hands-on machine learning with scikit-learn, Keras, and tensorflow: Concepts, tools, and techniques to build Intelligent Systems. O’Reilly Media. 
