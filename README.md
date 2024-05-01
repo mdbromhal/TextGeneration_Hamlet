@@ -2,6 +2,8 @@
 
 ABSTRACT: Using Text Generation to Generate Hamlet-Like Text
 
+Source: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
 - Preprocess data (clean it)
 - Encode the characters (tokenize)
 - Char-RNN model
